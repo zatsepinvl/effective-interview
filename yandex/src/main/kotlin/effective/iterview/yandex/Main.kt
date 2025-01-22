@@ -1,5 +1,8 @@
 package effective.iterview.yandex
 
+/**
+ *
+ */
 class Main {
 
     fun greeting(): String {
