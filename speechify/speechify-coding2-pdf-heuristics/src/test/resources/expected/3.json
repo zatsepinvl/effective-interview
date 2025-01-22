@@ -1,0 +1,32 @@
+[
+  { "type": "Heading", "text": "Introduction" },
+  {
+    "type": "Paragraph",
+    "text": "It has been a few years since we (Murat and Pierre) published Continuous Architecture, 1 and much has changed in that time, especially in the technology domain. Along with Eoin Woods, we therefore set out to update that book. What started as a simple revision, however, became a new book in its own right: Continuous Architecture in Practice."
+  },
+  {
+    "type": "Paragraph",
+    "text": "While Continuous Architecture was more concerned with outlining and discussing concepts, ideas, and tools, Continuous Architecture in Practice provides more hands-on advice. It focuses on giving guidance on how to leverage the continuous architecture approach and includes in-depth and up-to-date information on topics such as security, performance, scalability, resilience, data, and emerging technologies."
+  },
+  {
+    "type": "Paragraph",
+    "text": "We revisit the role of architecture in the age of agile, DevSecOps, cloud, and cloud-centric platforms. We provide technologists with a practical guide on how to update classical software architectural practice in order to meet the complex challenges of today\u2019s applications. We also revisit some of the core topics of software architecture: the role of the architect in the development team, meeting stakeholders\u2019 quality attribute needs, and the importance of architecture in achieving key cross-cutting concerns, including security, scalability, performance, and resilience. For each of these areas, we provide an updated approach to making the architectural practice relevant, often building on conventional advice found in the previous generation of software architecture books and explaining how to meet the challenges of these areas in a modern software development context."
+  },
+  {
+    "type": "Paragraph",
+    "text": "Continuous Architecture in Practice is organized as follows:"
+  },
+  {
+    "type": "Paragraph",
+    "text": "In Chapter 1, we provide context, define terms, and provide an overview of the case study that will be used throughout each chapter (more details for the case study are included in Appendix A)."
+  },
+  {
+    "type": "Paragraph",
+    "text": "In Chapter 2, our key ideas are laid out, providing the reader with an understanding of how to perform architectural work in today\u2019s software development environment."
+  },
+  {
+    "type": "Marginalia",
+    "text": "1. Murat Erder and Pierre Pureur, Continuous Architecture: Sustainable Architecture in an Agile and Cloud-Centric World (Morgan Kaufmann, 2015)."
+  },
+  { "type": "Marginalia", "text": "xxi" }
+]
