@@ -15,6 +15,7 @@ kotlin {
 
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation("org.junit.jupiter:junit-jupiter-params")
     testImplementation("io.mockk:mockk:1.13.6")
     testImplementation("com.google.truth:truth:1.4.4")
 }
